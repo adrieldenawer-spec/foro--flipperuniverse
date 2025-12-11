@@ -1,5 +1,6 @@
 # foro--flipperuniverse
 This forum is dedicated to the best programmers and coders. And flippers
+‼️The IRIS system is necessary‼️
 📲 Scan this QR code to join my official Telegram channel about Flipper Zero!
 
 Inside the channel you will find:
